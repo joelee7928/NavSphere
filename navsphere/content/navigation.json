@@ -1461,6 +1461,14 @@
           "description": "访问 decotv.tsjy-3703.dynv6.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=decotv.tsjy-3703.dynv6.net",
           "enabled": true
+        },
+        {
+          "id": "site_1763997892056_v47jzsxbj",
+          "title": "Pansou",
+          "href": "http://pansou.tsjy-3703.dynv6.net:16666",
+          "description": "访问 pansou.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pansou.tsjy-3703.dynv6.net",
+          "enabled": true
         }
       ],
       "subCategories": []
