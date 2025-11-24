@@ -1414,6 +1414,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1763997710925",
+      "title": "NAS-APP",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
