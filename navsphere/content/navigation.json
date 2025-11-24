@@ -1421,7 +1421,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1763997740156_it05c4rev",
+          "title": "Nas418",
+          "href": "http://nas418.tsjy-3703.dynv6.net:16666",
+          "description": "访问 nas418.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nas418.tsjy-3703.dynv6.net",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
