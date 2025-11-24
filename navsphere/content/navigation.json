@@ -1437,6 +1437,14 @@
           "description": "访问 nas918.tsjy-3703.dynv6.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nas918.tsjy-3703.dynv6.net",
           "enabled": true
+        },
+        {
+          "id": "site_1763997810505_8zagg0fjb",
+          "title": "Omnibox",
+          "href": "http://omnibox.tsjy-3703.dynv6.net:16666",
+          "description": "访问 omnibox.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=omnibox.tsjy-3703.dynv6.net",
+          "enabled": true
         }
       ],
       "subCategories": []
