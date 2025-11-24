@@ -1453,6 +1453,14 @@
           "description": "访问 katelyatv.tsjy-3703.dynv6.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=katelyatv.tsjy-3703.dynv6.net",
           "enabled": true
+        },
+        {
+          "id": "site_1763997872957_2zeem4z4n",
+          "title": "Decotv",
+          "href": "http://decotv.tsjy-3703.dynv6.net:16666",
+          "description": "访问 decotv.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=decotv.tsjy-3703.dynv6.net",
+          "enabled": true
         }
       ],
       "subCategories": []
