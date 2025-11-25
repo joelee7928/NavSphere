@@ -1414,64 +1414,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1763997710925",
-      "title": "NAS-APP",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1763997740156_it05c4rev",
-          "title": "Nas418",
-          "href": "http://nas418.tsjy-3703.dynv6.net:16666",
-          "description": "访问 nas418.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nas418.tsjy-3703.dynv6.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1763997784144_tmtgrlvr0",
-          "title": "Nas918",
-          "href": "http://nas918.tsjy-3703.dynv6.net:16666",
-          "description": "访问 nas918.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nas918.tsjy-3703.dynv6.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1763997810505_8zagg0fjb",
-          "title": "Omnibox",
-          "href": "http://omnibox.tsjy-3703.dynv6.net:16666",
-          "description": "访问 omnibox.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=omnibox.tsjy-3703.dynv6.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1763997832040_1jfaea7c4",
-          "title": "Katelyatv",
-          "href": "http://katelyatv.tsjy-3703.dynv6.net:16666",
-          "description": "访问 katelyatv.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=katelyatv.tsjy-3703.dynv6.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1763997872957_2zeem4z4n",
-          "title": "Decotv",
-          "href": "http://decotv.tsjy-3703.dynv6.net:16666",
-          "description": "访问 decotv.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=decotv.tsjy-3703.dynv6.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1763997892056_v47jzsxbj",
-          "title": "Pansou",
-          "href": "http://pansou.tsjy-3703.dynv6.net:16666",
-          "description": "访问 pansou.tsjy-3703.dynv6.net",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pansou.tsjy-3703.dynv6.net",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
