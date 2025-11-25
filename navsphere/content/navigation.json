@@ -124,6 +124,14 @@
           "description": "访问 katelyatv.tsjy-3703.dynv6.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=katelyatv.tsjy-3703.dynv6.net",
           "enabled": true
+        },
+        {
+          "id": "1764042903960",
+          "title": "Omnibox",
+          "href": "http://omnibox.tsjy-3703.dynv6.net:16666",
+          "description": "访问 omnibox.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=omnibox.tsjy-3703.dynv6.net",
+          "enabled": true
         }
       ],
       "subCategories": [],
