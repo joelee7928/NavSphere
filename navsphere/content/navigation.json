@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "1764042828847",
+          "title": "Decotv",
+          "href": "http://decotv.tsjy-3703.dynv6.net:16666",
+          "description": "访问 decotv.tsjy-3703.dynv6.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=decotv.tsjy-3703.dynv6.net",
+          "enabled": true
         }
       ],
       "subCategories": [],
